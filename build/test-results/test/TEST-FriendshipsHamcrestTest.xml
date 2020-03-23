@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FriendshipsHamcrestTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-03-23T17:49:29" hostname="DESKTOP-DQ59TTI" time="0.011">
+  <properties/>
+  <testcase name="testFriendshipMakeFriends" classname="FriendshipsHamcrestTest" time="0.005"/>
+  <testcase name="testFriendshipAreFriends" classname="FriendshipsHamcrestTest" time="0.0"/>
+  <testcase name="testFriendshipMakeFriendsWithTheSameFriend" classname="FriendshipsHamcrestTest" time="0.001"/>
+  <testcase name="testFriendshipGetFriends" classname="FriendshipsHamcrestTest" time="0.002"/>
+  <testcase name="testFriendsMapIsEmpty" classname="FriendshipsHamcrestTest" time="0.001"/>
+  <testcase name="testFriendshipGetFriendsWithNotFriends" classname="FriendshipsHamcrestTest" time="0.0"/>
+  <testcase name="testFriendshipAreNotFriends" classname="FriendshipsHamcrestTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
